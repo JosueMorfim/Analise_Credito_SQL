@@ -149,6 +149,35 @@ criar ec2
 
 ![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/53ef94cd-70cf-4495-a73a-a8f4818eaba9)
 
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/27ccf5aa-3465-4581-b401-3935bd602581)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/7d3f3774-9bf1-411a-a4c1-8c4ab8a2c763)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/1791c66a-f517-4e37-ba58-00a07bb938a3)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/94e5b2eb-9d8b-4702-a1e5-8038d33c05cf)
+
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/79c90a44-275b-42ba-a29e-d3dc785bd5d9)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/0401670a-0ad5-40ae-b3aa-35883eb3a1e7)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/4340f7a8-81a1-450b-ac38-e08a25535678)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/302c75f7-033c-4635-91ca-bd4ed963317b)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/6f320c79-6007-40cb-ae29-de4ba3b83780)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/b7f7bf4b-a29b-4f46-a3b8-479a9ed51755)
+
+
+
+
+
+
+
+
+
 
 
 
