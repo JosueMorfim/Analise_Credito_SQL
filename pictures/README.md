@@ -170,6 +170,11 @@ criar ec2
 
 ![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/b7f7bf4b-a29b-4f46-a3b8-479a9ed51755)
 
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/e6dcf704-c738-42ae-b0e8-7e0750f5dc7c)
+
+
+dia semana
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/9a8da57a-18ad-4caa-94e3-93ff5b7a69e8)
 
 
 
