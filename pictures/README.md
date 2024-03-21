@@ -92,99 +92,33 @@ Query: select avg(qtd_produtos) as qts_produtos, avg(valor_transacoes_12m) as me
 
 
 -------
-![2](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/dac11f8f-e3ff-4168-b874-0cbd756dca1d)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/d2b9ff49-75e2-48f5-8f11-667ee3485cf5)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/edb71445-c444-4aa1-9e5e-db13a7a3a568)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/948525b6-96cb-4703-915a-5e85f98fb726)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/525df21c-2a9b-4edc-9224-fb002f795e97)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/345e5284-b406-4814-ab7b-c802667c2ae9)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/a58e4260-b987-45e6-b99c-072322582382)
 
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/89036f48-e530-444d-bd4e-a643c5756ce4)
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/f76b26cc-d81d-4845-9735-6ad881a7479e)
+![projeto telegram 2](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/4c08838a-44b3-4bde-8c60-d2d0f27637d4)
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/8f9bdb4c-7d9e-411c-ab05-26d10ea383a6)
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/b36995d2-4ac9-4917-9952-47f68ca34f16)
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/79ef31ff-f285-4bd6-a0e3-d667aee8857f)
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/c2e3d6dd-2ae5-4cb1-9010-d7d3806f261e)
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/460bbecc-d96f-4709-b56f-2128f3ad79b0)
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/1cceab3d-20d2-4498-ae3b-cd1c053867b9)
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/338e5f99-5b00-4b15-95e7-f3c14e6341a8)
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/a58839da-25fe-4cb7-abdb-349e04b6945e)
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/a9a58f56-fc75-44fe-bafa-0c6de4d06fb8)
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/5c921b22-1fbb-4639-99e5-d667b001e813)
 
-criar ec2
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/6b4a2866-22e1-4980-9d06-dcc4972a9101)
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/901c03b9-ed04-4f0f-a1c5-33aae38fca46)
 
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/8f45ad4c-a55f-40c5-a770-d097c69ead50)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/25cda426-cc53-4eaf-ae60-bf4ad7259ade)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/fdf81ab1-2736-4201-a347-e9e645a0de02)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/17a839e5-f208-491a-89d2-20d391357362)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/ac5b69e5-6484-4da8-8aa5-da43d81e5f3f)
-
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/97be2611-4f7c-4b85-ad5f-e688b8c448ce)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/035d890e-5c85-46fc-a35a-13eee76e82e5)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/c72df182-d7d2-4174-b2de-bcb9d77f3d41)
-
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/44811e44-b42e-4e2f-821a-e81047e95c72)
-
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/68fad3ee-716d-4af3-a079-033038719897)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/53ef94cd-70cf-4495-a73a-a8f4818eaba9)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/27ccf5aa-3465-4581-b401-3935bd602581)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/7d3f3774-9bf1-411a-a4c1-8c4ab8a2c763)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/1791c66a-f517-4e37-ba58-00a07bb938a3)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/94e5b2eb-9d8b-4702-a1e5-8038d33c05cf)
-
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/79c90a44-275b-42ba-a29e-d3dc785bd5d9)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/0401670a-0ad5-40ae-b3aa-35883eb3a1e7)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/4340f7a8-81a1-450b-ac38-e08a25535678)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/302c75f7-033c-4635-91ca-bd4ed963317b)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/6f320c79-6007-40cb-ae29-de4ba3b83780)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/b7f7bf4b-a29b-4f46-a3b8-479a9ed51755)
-
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/e6dcf704-c738-42ae-b0e8-7e0750f5dc7c)
-
-
-dia semana
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/9a8da57a-18ad-4caa-94e3-93ff5b7a69e8)
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/c00cbfa9-a7fa-447a-b165-9316fe6e0ecf)
 
 
 
 
 
 
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/3c7fc8a8-6141-428d-80db-c0aca073d32d)
 
-
-
-
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/ddd7fed7-a0e5-4664-a9ef-3ace126705e3)
 
 
 
