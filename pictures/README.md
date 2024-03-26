@@ -179,6 +179,32 @@ continuação projeto
 
 
 
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/6510e6b1-0569-40d0-8ae8-4cb57c676d5e)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/693fce60-6c2e-4bd2-94a6-e7222c3c42d5)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/c339c77d-4596-426e-a75a-30d947e786ac)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/7233263a-9359-45d0-bca8-53075ffb33b0)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/f333fffd-2045-40bd-bcbf-fdd170d98af2)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/dbc9a889-a66b-4f66-9f7a-c755d59354fc)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/0ba47cc4-0c66-4f13-93c2-1719e641f953)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/c3c91e38-a9bb-41f9-b51a-8eaae097980f)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/12695124-5a97-456a-a8c4-d707b2ab7b8b)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/d64edb89-0b32-49a5-8286-6c166ca6e364)
+
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/1058a2ad-9971-4ee7-ae56-e0e36dac1081)
+
+![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/8360d95e-5359-40a0-be24-fdc1ad6b422c)
+
+
 
 
 
