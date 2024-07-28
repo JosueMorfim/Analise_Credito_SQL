@@ -204,7 +204,8 @@ continuação projeto
 
 ![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/8360d95e-5359-40a0-be24-fdc1ad6b422c)
 Dashboard
-![image](https://github.com/JosueMorfim/Analise_Credito_SQL/assets/141301164/a4f39298-3955-4aea-9b27-0d50e92128ea)
+
+![image](https://github.com/user-attachments/assets/b75988fd-2067-418f-b9ce-900badfcb797)
 
 
 
